@@ -5,7 +5,7 @@ This repository contains solutions for the initial screening round of the Full S
 ## Language Used
 
 - Java
-- Version: Java 8 or above
+- Version: Java 23
 
 ## File Names
 
