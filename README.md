@@ -9,10 +9,10 @@ This repository contains solutions for the initial screening round of the Full S
 
 ## File Names
 
-- Problem-1.java
-- Problem-2.java
-- Problem-3.java
-- Problem-4.java
+- Problem1.java
+- Problem2.java
+- Problem3.java
+- Problem4.java
 
 ## How to Run
 
